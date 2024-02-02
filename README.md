@@ -1,5 +1,6 @@
 # Slack Channel Data Exporter & Dataset Creator
 This Flask application serves as a bridge between Slack channels and data analysis, enabling the export of Slack channel messages and the creation of datasets for machine learning applications.
+The process described in details in my Medium post -> https://data-freak.net/conversational-alchemy-turning-slack-discussions-into-gold-with-llm-82e77d65bb35
 
 ## Features
 - Slack Channel Export: Dump all messages from a specified Slack channel, anonymizing user data for privacy.
